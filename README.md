@@ -1,2 +1,2 @@
 # Shehacks
-Shehacks by tinkrhub -shortlisting task
+Shehacks by tinkerhub -shortlisting task
